@@ -17,7 +17,7 @@ div.container {
 }
 
 header {
-    flex: 0 0 60em;
+    flex: 0 0 100%;
 }
 
 article {
@@ -30,7 +30,7 @@ aside {
 }
 
 footer {
-    flex: 0 0 60em;
+    flex: 0 0 100%;
     border-top: solid 1px #aaa;
     margin-top: 2em;
 }
