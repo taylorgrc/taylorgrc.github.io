@@ -1,0 +1,73 @@
+/*CSS DOCUMENT */
+
+
+body {
+	background-color: #fafafa;
+	color: #333333;
+}
+
+div.container {
+	max-width: 40em;
+	margin: auto;
+}
+
+img {
+	width: 100%;
+}
+
+figure {
+	margin: 1em 0;
+}
+
+figcaption {
+    font-size: 0.8em; 
+	font-family: basic-sans, sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    margin-top: 0.5em;
+    margin-bottom: 2.5em;
+}
+
+h1, h2, h3, h4, p, ul, ol, li {
+	margin: 0; 
+	padding:0; 
+	font-size: 1em; 
+	font-weight: normal;
+}
+
+h1 {
+	font-size: 3em; 
+    font-family: basic-sans, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+h2 {
+	font-size: 1.5em; 
+    font-family: basic-sans, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    margin-top: 0.7em
+}
+
+h3 {
+	font-size: 1.2em; 
+	font-family: basic-sans, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 0.8em;
+    margin-bottom: 0.4em;
+}
+
+p {
+   	font-size: 0.8em; 
+	font-family: basic-sans, sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+}
+
+span {
+    font-family: basic-sans, sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
